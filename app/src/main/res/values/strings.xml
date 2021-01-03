@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared_Prf</string>
+    <string name="user_name">name</string>
+    <string name="user_password">password</string>
+    <string name="remember_me">Remember me ?</string>
+    <string name="sign_in">sign me in</string>
+</resources>
